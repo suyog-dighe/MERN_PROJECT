@@ -1,0 +1,12 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  text-align: center;
+ 
+  padding-left: 50px;
+  min-height: 100vh;
+}
